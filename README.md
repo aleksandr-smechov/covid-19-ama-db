@@ -4,7 +4,7 @@ A collection of over 1,000 AMA questions and answers on COVID-19 from various ex
 
 # Search the database online
 
-You can find a searchable database at [amadb.xyz](http://amadb.xyz}
+You can find a searchable database at [amadb.xyz](http://amadb.xyz)
 
 # Files
 
